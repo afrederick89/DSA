@@ -1,0 +1,61 @@
+Current Date: 29/11/2017
+108 Days from today: 17/3/2018
+Number of days between July 25 and Dec 24: 152
+Square root of -2 error: Domain error
+Divide by zero error: No error
+Natural log of -2 error: Domain error
+1x10^19 + 4 - 1x10^19: 4
+Cube of 2.5 function pointer: 15.625
+Cube root of 8.0 function pointer: 2
+A | 65 | 2
+B | 66 | 2
+C | 67 | 3
+D | 68 | 2
+E | 69 | 3
+F | 70 | 3
+G | 71 | 4
+H | 72 | 2
+I | 73 | 3
+J | 74 | 3
+K | 75 | 4
+L | 76 | 3
+M | 77 | 4
+N | 78 | 4
+O | 79 | 5
+P | 80 | 2
+Q | 81 | 3
+R | 82 | 3
+S | 83 | 4
+T | 84 | 3
+U | 85 | 4
+V | 86 | 4
+W | 87 | 5
+X | 88 | 3
+Y | 89 | 4
+Z | 90 | 4
+a | 97 | 3
+b | 98 | 3
+c | 99 | 4
+d | 100 | 3
+e | 101 | 4
+f | 102 | 4
+g | 103 | 5
+h | 104 | 3
+i | 105 | 4
+j | 106 | 4
+k | 107 | 5
+l | 108 | 4
+m | 109 | 5
+n | 110 | 5
+o | 111 | 6
+p | 112 | 3
+q | 113 | 4
+r | 114 | 4
+s | 115 | 5
+t | 116 | 4
+u | 117 | 5
+v | 118 | 5
+w | 119 | 6
+x | 120 | 4
+y | 121 | 5
+z | 122 | 5

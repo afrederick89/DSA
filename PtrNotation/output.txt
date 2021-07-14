@@ -1,0 +1,4 @@
+ptrarray[4][2] or *(*(ptrptr+4)+2): d or d
+ptrarray[8][8] or *(*(ptrptr+8)+8): y or y
+ptrarray[7][0] or *(*(ptrptr+7)): H or H
+ptrarray[3] or *(ptrptr + 3): Girl or Girl

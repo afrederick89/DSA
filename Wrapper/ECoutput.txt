@@ -1,0 +1,26 @@
+***************************************************************
+Name        : Alex Frederick
+Assignment  : Extra Credit - Wrapper
+Date        : 2/7/2018
+***************************************************************
+This Program is an implementation of a wrapper.
+It wraps a Deque over a Doubly Linked List class.
+The output currently displays the methods in use
+
+Initial Deque size: 0
+Initial Deque Empty(1/0 true/false): 1
+Inserting A man, a plan, a canal, Panama to front.
+Inserting Was it a car or a cat I saw? to front.
+Inserting Sit on a potato pan, Otis to back.
+Inserting No lemon, no melon to back.
+
+Deque front: Was it a car or a cat I saw?
+Removing front.
+
+Deque front after remove (1): A man, a plan, a canal, Panama
+Secondary Deque size: 3
+Removing from back.
+Removing from back.
+Removing from back.
+
+Emptied Deque: 1

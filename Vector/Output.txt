@@ -1,0 +1,56 @@
+***************************************************************
+Name        : Alex Frederick
+Assignment  : 3 - Vector ADT
+Date        : 2/14/2018
+***************************************************************
+***************************************************************
+* This Program implements an extendable array. Each
+* insert/delete will display the value being
+* inserted/deleted and at what position within the array.
+***************************************************************
+
+
+Testing Inserts:
+Reserved 1 capacity.
+Inserting 1 at position [0]
+Position:[0]: 1
+Reserved 2 capacity.
+Inserting 2 at position [1]
+Position:[0]: 1
+Position:[1]: 2
+Reserved 4 capacity.
+Inserting 3 at position [2]
+Position:[0]: 1
+Position:[1]: 2
+Position:[2]: 3
+Inserting 4 at position [0]
+
+Testing Size: 
+4
+
+Test Erase(out of bounds first): 
+Invalid Erase!
+Invalid Erase!
+Position:[0]: 4
+Position:[1]: 1
+Position:[2]: 2
+Position:[3]: 3
+
+Testing .at() (out of bounds first):
+Index out of bounds!
+At position:[3] : 3
+Erasing 4 at position [0]
+
+Is Empty (Returns bool value):
+IsEmpty: 0
+Erasing 1 at position [0]
+Position:[0]: 2
+Position:[1]: 3
+Erasing 2 at position [0]
+Position:[0]: 3
+IsEmpty: 0
+
+Testing reserve, using 10:
+Reserved 10 capacity.
+
+Testing reserve, using 8(should do nothing):

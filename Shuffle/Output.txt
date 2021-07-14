@@ -1,0 +1,244 @@
+
+Welcome to the shuffle simulator
+What would you like to do?
+(1)View your deck
+(2)Shuffle your deck
+(3)Compare your deck
+(4)Exit
+1
+Ace of Hearts
+Two of Hearts
+Three of Hearts
+Four of Hearts
+Five of Hearts
+Six of Hearts
+Seven of Hearts
+Eight of Hearts
+Nine of Hearts
+Ten of Hearts
+Jack of Hearts
+Queen of Hearts
+King of Hearts
+Ace of Diamonds
+Two of Diamonds
+Three of Diamonds
+Four of Diamonds
+Five of Diamonds
+Six of Diamonds
+Seven of Diamonds
+Eight of Diamonds
+Nine of Diamonds
+Ten of Diamonds
+Jack of Diamonds
+Queen of Diamonds
+King of Diamonds
+Ace of Clubs
+Two of Clubs
+Three of Clubs
+Four of Clubs
+Five of Clubs
+Six of Clubs
+Seven of Clubs
+Eight of Clubs
+Nine of Clubs
+Ten of Clubs
+Jack of Clubs
+Queen of Clubs
+King of Clubs
+Ace of Spades
+Two of Spades
+Three of Spades
+Four of Spades
+Five of Spades
+Six of Spades
+Seven of Spades
+Eight of Spades
+Nine of Spades
+Ten of Spades
+Jack of Spades
+Queen of Spades
+King of Spades
+
+
+
+Welcome to the shuffle simulator
+What would you like to do?
+(1)View your deck
+(2)Shuffle your deck
+(3)Compare your deck
+(4)Exit
+2
+
+Shuffling
+
+Welcome to the shuffle simulator
+What would you like to do?
+(1)View your deck
+(2)Shuffle your deck
+(3)Compare your deck
+(4)Exit
+1
+Ace of Hearts
+Ace of Clubs
+Two of Hearts
+Two of Clubs
+Three of Hearts
+Three of Clubs
+Four of Hearts
+Four of Clubs
+Five of Hearts
+Five of Clubs
+Six of Hearts
+Six of Clubs
+Seven of Hearts
+Seven of Clubs
+Eight of Hearts
+Eight of Clubs
+Nine of Hearts
+Nine of Clubs
+Ten of Hearts
+Ten of Clubs
+Jack of Hearts
+Jack of Clubs
+Queen of Hearts
+Queen of Clubs
+King of Hearts
+King of Clubs
+Ace of Diamonds
+Ace of Spades
+Two of Diamonds
+Two of Spades
+Three of Diamonds
+Three of Spades
+Four of Diamonds
+Four of Spades
+Five of Diamonds
+Five of Spades
+Six of Diamonds
+Six of Spades
+Seven of Diamonds
+Seven of Spades
+Eight of Diamonds
+Eight of Spades
+Nine of Diamonds
+Nine of Spades
+Ten of Diamonds
+Ten of Spades
+Jack of Diamonds
+Jack of Spades
+Queen of Diamonds
+Queen of Spades
+King of Diamonds
+King of Spades
+
+
+
+Welcome to the shuffle simulator
+What would you like to do?
+(1)View your deck
+(2)Shuffle your deck
+(3)Compare your deck
+(4)Exit
+3
+
+Your deck is different than initialized state.
+
+Welcome to the shuffle simulator
+What would you like to do?
+(1)View your deck
+(2)Shuffle your deck
+(3)Compare your deck
+(4)Exit
+2
+
+Shuffling
+
+Welcome to the shuffle simulator
+What would you like to do?
+(1)View your deck
+(2)Shuffle your deck
+(3)Compare your deck
+(4)Exit
+2
+
+Shuffling
+
+Welcome to the shuffle simulator
+What would you like to do?
+(1)View your deck
+(2)Shuffle your deck
+(3)Compare your deck
+(4)Exit
+2
+
+Shuffling
+
+Welcome to the shuffle simulator
+What would you like to do?
+(1)View your deck
+(2)Shuffle your deck
+(3)Compare your deck
+(4)Exit
+2
+
+Shuffling
+
+Welcome to the shuffle simulator
+What would you like to do?
+(1)View your deck
+(2)Shuffle your deck
+(3)Compare your deck
+(4)Exit
+2
+
+Shuffling
+
+Welcome to the shuffle simulator
+What would you like to do?
+(1)View your deck
+(2)Shuffle your deck
+(3)Compare your deck
+(4)Exit
+2
+
+Shuffling
+
+Welcome to the shuffle simulator
+What would you like to do?
+(1)View your deck
+(2)Shuffle your deck
+(3)Compare your deck
+(4)Exit
+3
+
+Your deck is different than initialized state.
+
+Welcome to the shuffle simulator
+What would you like to do?
+(1)View your deck
+(2)Shuffle your deck
+(3)Compare your deck
+(4)Exit
+2
+
+Shuffling
+
+Welcome to the shuffle simulator
+What would you like to do?
+(1)View your deck
+(2)Shuffle your deck
+(3)Compare your deck
+(4)Exit
+3
+
+Your deck is the same as initialized state.
+
+Welcome to the shuffle simulator
+What would you like to do?
+(1)View your deck
+(2)Shuffle your deck
+(3)Compare your deck
+(4)Exit
+4
+
+Exiting

@@ -1,0 +1,35 @@
+First Run(Assert Test):
+
+Enter the First Student: 
+Enter Name: Bill
+Enter ID: 123
+Enter Age: 0
+Assertion failed: inStu.age > 0, file ..\Student.cpp, line 99
+
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+
+Second Run:
+
+Enter the First Student: 
+Enter Name: Bill
+Enter ID: 123
+Enter Age: 8
+8 is too young for college.
+Setting Age to 18.
+
+Enter 0 to Exit.
+
+Third Run:
+
+Enter the First Student: 
+Enter Name: Bill
+Enter ID: 123
+Enter Age: 10
+Enter Phone Number: 123-4567
+Enter Class Standing: Freshmen
+Enter GPA: -1
+-1 is too low for a GPA.
+Setting GPA to 2.0.
+
+Enter 0 to Exit.

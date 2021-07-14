@@ -1,0 +1,40 @@
+***************************************************************
+Name        : Alex Frederick
+Assignment  : 5 - Priority Queue
+Date        : 2/28/2018
+***************************************************************
+***************************************************************
+* This Program implements 2 Priority Queues, one from the
+* Standard Template Library. One from the author's priority queue
+* adt. All the elements will be inserted at the beginning and the
+* scenario will be ran.
+* Scenario: Emergency room patients each get 25 minutes of 
+* treatment time. If a life threatening patient comes in, that
+* patient immediately gets treatment, and then the previous
+* patient will recieve the remaining treatment time.
+***************************************************************
+STL Version: 
+Start: Alice Ailment at 12:00 completed at 12:25
+Start: Tom Temperature at 12:25 completed at 12:50
+Start: Cathy Coughing at 12:50
+LIFE THREAT: Sam Sneezing at 13:12 completed at 13:37
+Start: Cathy Coughing at 13:37 completed at 13:40
+Start: Paula Pain at 13:40
+LIFE THREAT: Sid Sickly at 14:01 completed at 14:26
+Start: Paula Pain at 14:26 completed at 14:30
+Start: Frank Feelingbad at 14:30 completed at 14:55
+Start: Bob Bleeding at 14:55 completed at 15:20
+Start: Irene Ill at 15:20 completed at 15:45
+
+ADT VERSION: 
+Start: Alice Ailment at 12:00 completed at 12:25
+Start: Tom Temperature at 12:25 completed at 12:50
+Start: Cathy Coughing at 12:50
+LIFE THREAT: Sam Sneezing at 13:12 completed at 13:37
+Start: Cathy Coughing at 13:37 completed at 13:40
+Start: Paula Pain at 13:40
+LIFE THREAT: Sid Sickly at 14:01 completed at 14:26
+Start: Paula Pain at 14:26 completed at 14:30
+Start: Frank Feelingbad at 14:30 completed at 14:55
+Start: Bob Bleeding at 14:55 completed at 15:20
+Start: Irene Ill at 15:20 completed at 15:45
