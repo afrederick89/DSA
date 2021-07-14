@@ -1,0 +1,91 @@
+***************************************************************
+Name        : Alex Frederick
+Assignment  : 10 - DFS/BFS
+Date        : 4/16/2018
+***************************************************************
+***************************************************************
+* This program has hard stored data for a directed graph 
+* data structure. The program will perform a DFS then output 
+* the discovery/back edges for that search.Then it will perform a 
+* BFS and output the discovery/back edges for that search.
+***************************************************************
+DFS: 
+Visiting Chicago
+Visiting Boston
+Visiting New York
+Visiting Atlanta
+Visiting Miami
+Visiting Houston
+Visiting Dallas
+Visiting Kansas City
+Visiting Denver
+Backtracking Visiting Chicago
+Visiting Seattle
+Visiting San Francisco
+Visiting Los Angeles
+Backtracking Total Distance: 8552
+Edges: 
+11	10	214	Discovery
+7	6	239	Discovery
+1	2	381	Discovery
+6	5	496	Discovery
+5	4	533	Back
+5	3	599	Discovery
+8	9	661	Discovery
+6	8	781	Back
+10	4	787	Back
+0	1	807	Discovery
+7	8	810	Back
+5	8	864	Back
+10	8	888	Discovery
+4	11	983	Discovery
+3	4	1003	Back
+2	3	1015	Back
+9	7	1187	Discovery
+5	10	1260	Back
+0	3	1331	Back
+6	2	1435	Back
+5	2	1663	Back
+4	0	2097	Discovery
+
+BFS: 
+Visiting Chicago
+Visiting Boston
+Visiting Seattle
+Visiting New York
+Visiting San Francisco
+Visiting Denver
+Visiting Atlanta
+Visiting Los Angeles
+Visiting Miami
+Visiting Houston
+Visiting Dallas
+Visiting Kansas City
+Total Distance: 9284
+Edges: 
+11	10	214	Discovery
+7	6	239	Discovery
+1	2	381	Discovery
+6	5	496	Discovery
+5	4	533	Back
+5	3	599	Back
+8	9	661	Discovery
+6	8	781	Back
+10	4	787	Back
+0	1	807	Discovery
+7	8	810	Back
+5	8	864	Back
+10	8	888	Discovery
+4	11	983	Discovery
+3	4	1003	Back
+2	3	1015	Back
+9	7	1187	Discovery
+5	10	1260	Back
+0	3	1331	Discovery
+6	2	1435	Back
+5	2	1663	Back
+4	0	2097	Discovery
+
+
+PART C: This graph is strongly connected because it is
+ possible for every node to reach the other nodes.

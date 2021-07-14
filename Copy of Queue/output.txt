@@ -1,0 +1,12 @@
+New Singleton created!
+
+Added job: Job 1
+Added job: Job 2
+Cannot cancel job number: 3, no such job exists.
+
+Cancelled job number: 1
+Cancelled job number: 0
+Nothing in the que.
+Nothing in the que.
+Singleton Already Exists!
+Nothing in the que.

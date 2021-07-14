@@ -1,0 +1,60 @@
+============================================================================
+Name        : Lab1_Vectors_RandomNum.cpp
+Author      : Alex Frederick & Samantha Finks
+Assignment  : Lab 1 - Vectors
+============================================================================
+*******************************************************************************
+* This program will generate 15 random numbers and store them in a vector.
+* The program will then sort the numbers and enter them into another vector
+* in reverse order.  Then the digits of each number will be summed and stored
+* into the final vector.
+* The vectors will then all be output.
+*******************************************************************************
+
+Random number at position 0: 163
+Random number at position 1: 184
+Random number at position 2: 264
+Random number at position 3: 330
+Random number at position 4: 331
+Random number at position 5: 347
+Random number at position 6: 359
+Random number at position 7: 423
+Random number at position 8: 456
+Random number at position 9: 611
+Random number at position 10: 669
+Random number at position 11: 787
+Random number at position 12: 801
+Random number at position 13: 861
+Random number at position 14: 869
+
+The sum of the digits 200 is 2
+The sum of the digits 184 is 13
+The sum of the digits 264 is 12
+The sum of the digits 330 is 6
+The sum of the digits 331 is 7
+The sum of the digits 347 is 14
+The sum of the digits 359 is 17
+The sum of the digits 423 is 9
+The sum of the digits 456 is 15
+The sum of the digits 611 is 8
+The sum of the digits 669 is 21
+The sum of the digits 787 is 22
+The sum of the digits 801 is 9
+The sum of the digits 861 is 15
+The sum of the digits 869 is 23
+
+The reverse of the digits 200 is 002
+The reverse of the digits 184 is 481
+The reverse of the digits 264 is 462
+The reverse of the digits 330 is 033
+The reverse of the digits 331 is 133
+The reverse of the digits 347 is 743
+The reverse of the digits 359 is 953
+The reverse of the digits 423 is 324
+The reverse of the digits 456 is 654
+The reverse of the digits 611 is 116
+The reverse of the digits 669 is 966
+The reverse of the digits 787 is 787
+The reverse of the digits 801 is 108
+The reverse of the digits 861 is 168
+The reverse of the digits 869 is 968

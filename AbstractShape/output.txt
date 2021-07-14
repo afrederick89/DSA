@@ -1,0 +1,20 @@
+Enter the length of the squares sides: 4.66
+
+The Area of your square is: 21.7156
+The Perimeter of your square is: 18.64
+
+Enter the length of the triangles first side: 7.0
+Second Side: 8
+Third Side: 2
+
+The Area of your triangle is: 6.4372
+The Perimeter of your triangle is: 17
+
+Square Perimeter: 18.64
+Triangle Perimeter: 17
+Square Area: 21.7156
+Triangle Area: 6.4372
+
+Part 2
+First and Last Name: Alexander Frederick 
+Second Letters: l r 

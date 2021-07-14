@@ -1,0 +1,41 @@
+***************************************************************
+Name        : Alex Frederick
+Assignment  : 2 - Stacks/Queues
+Date        : 2/7/2018
+***************************************************************
+Part A: STL<stack>
+Name Stack: Bill JoAnn Jennifer Eric Rick Alan Mark 
+Double Stack: 983.3 8.445 123.123 88.88 888.55 44.44 
+Part B: Delete Rick and 88.88
+Name Stack: Alan Mark 
+Double Stack: 888.55 44.44 
+
+Part C: Singly Linked List Stack 
+Name Stack: Bill JoAnn Jennifer Eric Rick Alan Mark 
+Double Stack: 983.3 8.445 123.123 88.88 888.55 44.44 
+Part D: Delete Rick/88.88 from List Stack
+Name Stack: Mark 
+Double Stack: 44.44 
+
+Part E: Linked List Queue 
+Name Queue: Mark Alan Rick Eric Jennifer JoAnn Bill 
+Double Queue: 44.44 888.55 88.88 123.123 8.445 983.3 
+Part F: Delete Rick/88.88 from List Queue
+Name Queue: Eric Jennifer JoAnn Bill 
+Part F: Double Queue: 123.123 8.445 983.3 
+
+Part G: Linked List Deque 
+Name Deque: Bill JoAnn Jennifer Eric Rick Alan Mark 
+Double Deque: 44.44 888.55 88.88 123.123 8.445 983.3 
+Part H: Delete Rick(pop_front) and 88.88(pop_back)
+Name Deque: Alan Mark 
+Double Deque: 123.123 8.445 983.3 
+
+Part I: Parentheses algorithm:
+{2x-8)(12x+6) is NOT valid!
+{{8x+5)-5x[9x+3]}) is NOT valid!
+{2x+5}(6x+4) is valid!
+(((4x+8)-x[4x+3]))) is valid!
+[(5x-5)-4x[6x+2]] is valid!
+{(8x+5)-6x[9x+3]] is NOT valid!
+(12x+6)(2x-4) is valid!

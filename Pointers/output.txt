@@ -1,0 +1,25 @@
+Current Inventory: 
+Product                    |  Cost      |  Quantity                 
+Nike basketball shoes      |  159.99    |  72                       
+Under Armour T-shirt       |  25.99     |  53                       
+Brooks running shoes       |  119.44    |  9                        
+Asics running shoes        |  165.88    |  44                       
+Under Armour shorts        |  45.77     |  88                       
+
+
+Receipt for Purchase
+Product                    |  Cost      |  Quantity                 
+Nike basketball shoes      |  159.99    |  4                        
+Under Armour T-shirt       |  25.99     |  3                        
+Asics running shoes        |  165.88    |  1                        
+Under Armour shorts        |  45.77     |  4                        
+
+Pretax: $1066.89 | Total Tax: $82.68 | Total Cost: $1149.57
+
+Current Inventory: 
+Product                    |  Cost      |  Quantity                 
+Nike basketball shoes      |  159.99    |  68                       
+Under Armour T-shirt       |  25.99     |  50                       
+Brooks running shoes       |  119.44    |  9                        
+Asics running shoes        |  165.88    |  43                       
+Under Armour shorts        |  45.77     |  84         

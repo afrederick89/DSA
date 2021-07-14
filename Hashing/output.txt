@@ -1,0 +1,43 @@
+***************************************************************
+Name        : Alex Frederick
+Assignment  : 5 - Hash Map
+Date        : 3/7/2018
+***************************************************************
+***************************************************************
+* This Program implements 2 hash maps. One using a double hashing
+* algorithm and one using a quadratic hashing algorithm.  Each
+* uses a vector as a bucket and a map as the data structure.
+***************************************************************
+Using double hash, Map and Vector: 
+Key: 11 Value: La Jolla
+Key: 17 Value: Orange
+Key: 18 Value: Mission Viejo
+Key: 19 Value: Brea
+Key: 22 Value: San Clemente
+Key: 29 Value: Dana Point
+Key: 31 Value: Los Angeles
+Key: 35 Value: Tustin
+Key: 41 Value: San Clemente
+Key: 42 Value: Vista
+Key: 44 Value: Irvine
+Key: 49 Value: Laguna Beach
+Key: 60 Value: Santa Ana
+Key: 62 Value: Laguna Hills
+Key: 72 Value: Palm Springs
+Key: 88 Value: El Segundo
+Key: 99 Value: San Juan
+Key: 103 Value: Oceanside
+Part 2: Using Quadratic hash and Vector Buckets
+Key: 11 Value: La Jolla
+Key: 17 Value: Orange
+Key: 18 Value: Del Mar
+Key: 19 Value: Brea
+Key: 22 Value: San Clemente
+Key: 31 Value: Los Angeles
+Key: 32 Value: San Diego
+Key: 35 Value: Tustin
+Key: 41 Value: San Clemente
+Key: 44 Value: Irvine
+Key: 60 Value: Santa Ana
+Key: 88 Value: El Segundo
+Key: 99 Value: San Juan
